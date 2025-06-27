@@ -56,11 +56,11 @@ GIF created with LiceCap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I think that the hardest part about this project was managing the user input. Not only did I have a lot of buttons, but it was also difficult to work with them since I've never really done anything like it before.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Mohamed Mudawi]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
